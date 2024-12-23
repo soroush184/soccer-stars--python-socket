@@ -1,6 +1,3 @@
-# soccer-stars--python-socket
-Sure! Here's a README template for your "Soccer Stars" project using socket programming. You can adjust it based on the specifics of your project:
-
 # Soccer Stars: Multiplayer Game Using Socket Programming
 
 ## Overview
