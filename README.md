@@ -67,10 +67,8 @@ To run this project, follow these steps:
 
 ## Code Structure
 
-- `server.py`: The main server script that listens for incoming client connections, processes game logic, and broadcasts game state.
+- `server`: The main server script that listens for incoming client connections, processes game logic, and broadcasts game state.
 - `client.py`: The client script that connects to the server, sends user inputs, and displays the game state.
-- `game_logic.py`: Handles the game mechanics and interactions.
-- `config.py`: Configuration settings such as server address, port, etc.
 
 ## Future Improvements
 
